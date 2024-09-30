@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\wassi\\source\\repos\\SWAPI\\SWAPI\\wwwroot\\Data\\films.json",
+      "PackagePath": "staticwebassets\\Data\\films.json"
+    },
+    {
+      "Id": "C:\\Users\\wassi\\source\\repos\\SWAPI\\SWAPI\\wwwroot\\Data\\filmsPlanats.json",
+      "PackagePath": "staticwebassets\\Data\\filmsPlanats.json"
+    },
+    {
+      "Id": "C:\\Users\\wassi\\source\\repos\\SWAPI\\SWAPI\\wwwroot\\Data\\people.json",
+      "PackagePath": "staticwebassets\\Data\\people.json"
+    },
+    {
+      "Id": "C:\\Users\\wassi\\source\\repos\\SWAPI\\SWAPI\\wwwroot\\Data\\planets.json",
+      "PackagePath": "staticwebassets\\Data\\planets.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SWAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SWAPI.props",
+      "PackagePath": "build\\SWAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SWAPI.props",
+      "PackagePath": "buildMultiTargeting\\SWAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SWAPI.props",
+      "PackagePath": "buildTransitive\\SWAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

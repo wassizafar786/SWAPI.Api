@@ -1,0 +1,15 @@
+C:\Users\wassi\source\repos\SWAPI\SWAPI.Domain\bin\Debug\net8.0\SWAPI.Domain.deps.json
+C:\Users\wassi\source\repos\SWAPI\SWAPI.Domain\bin\Debug\net8.0\SWAPI.Domain.dll
+C:\Users\wassi\source\repos\SWAPI\SWAPI.Domain\bin\Debug\net8.0\SWAPI.Domain.pdb
+C:\Users\wassi\source\repos\SWAPI\SWAPI.Domain\obj\Debug\net8.0\SWAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wassi\source\repos\SWAPI\SWAPI.Domain\obj\Debug\net8.0\SWAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\wassi\source\repos\SWAPI\SWAPI.Domain\obj\Debug\net8.0\SWAPI.Domain.AssemblyInfo.cs
+C:\Users\wassi\source\repos\SWAPI\SWAPI.Domain\obj\Debug\net8.0\SWAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wassi\source\repos\SWAPI\SWAPI.Domain\obj\Debug\net8.0\SWAPI.Domain.dll
+C:\Users\wassi\source\repos\SWAPI\SWAPI.Domain\obj\Debug\net8.0\refint\SWAPI.Domain.dll
+C:\Users\wassi\source\repos\SWAPI\SWAPI.Domain\obj\Debug\net8.0\SWAPI.Domain.pdb
+C:\Users\wassi\source\repos\SWAPI\SWAPI.Domain\obj\Debug\net8.0\ref\SWAPI.Domain.dll
+C:\Users\wassi\source\repos\SWAPI\SWAPI.Domain\bin\Debug\net8.0\SWAPI.Shared.dll
+C:\Users\wassi\source\repos\SWAPI\SWAPI.Domain\bin\Debug\net8.0\SWAPI.Shared.pdb
+C:\Users\wassi\source\repos\SWAPI\SWAPI.Domain\obj\Debug\net8.0\SWAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\wassi\source\repos\SWAPI\SWAPI.Domain\obj\Debug\net8.0\SWAPI.Do.020F7DE4.Up2Date
